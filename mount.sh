@@ -1,7 +1,6 @@
 #!bin/bash
 
-# Dette scripts formål er til at installere cifs opsætning til synology-privat.vezit.net
-
+# Dette scripts formål er til at installere cifs opsætning til en windows server
 # navne konvention
 # <fqdn>-<cifs_login>-<uid>-<gid>-<netværksmappe>
 
